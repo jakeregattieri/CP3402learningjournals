@@ -1,4 +1,4 @@
-# Week 3: Prac 3 - WordPress CMS
+# Learning Journal - Week [3]
 
 ## Learning Activities & Resources
 
