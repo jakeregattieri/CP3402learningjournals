@@ -1,4 +1,4 @@
-# Learning Journal - Week [6]
+# Learning Journal - Week [7]
 
 ## Learning Activities & Resources
 
